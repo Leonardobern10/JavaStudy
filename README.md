@@ -1,4 +1,3 @@
 # Java Study - Knowledge about the Java programming language
 
-Aqui estão separados por categorias alguns dos códigos criados para aprimorar e desenvolver conhecimentos 
-relacionados à aspectos importantes da linguagem Java.
+Here are some codes, separated by categories, created to enhance and develop knowledge related to important aspects of the Java language.
